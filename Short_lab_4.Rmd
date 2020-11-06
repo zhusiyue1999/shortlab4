@@ -1,6 +1,6 @@
 ---
 title: "Short Lab 4"
-author: "Siyue Zhu"
+author: "SiyueZhu"
 date: "11/9/2020"
 output: html_document
 ---
@@ -47,6 +47,7 @@ Please type only the link to your repository using the template below. Fill in b
 
 
 [https://github.com/zhusiyue1999/shortlab4](https://github.com/zhusiyue1999/shortlab4)
+
 
 Here's a checklist of what we should see at the link above:
 
