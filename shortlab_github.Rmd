@@ -1,6 +1,6 @@
 ---
 title: "Short Lab 4"
-author: "INSERT YOUR NAME HERE"
+author: "Siyue Zhu"
 date: "11/9/2020"
 output: html_document
 ---
